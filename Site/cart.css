@@ -1,0 +1,183 @@
+/*html {!**/
+  /*background: #bbc3c6;*!*/
+  /*!*font: 62.5%/1.5em "Trebuchet Ms", helvetica;*!*/
+/*}*/
+
+.shopper {
+  text-transform: lowercase;
+  font: 2em 'Shopper', sans-serif;
+  line-height: 0.5em;
+  display: inline-block;
+}
+
+
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-size: -0.5em;
+  color: #8a8a8a;
+}
+
+input {
+  border: 0.3em solid #3e3e40;
+  color: #8a8a8a;
+  text-align: center;
+}
+
+.i {
+  max-width: 9em;
+  width: 100%;
+  overflow: hidden; 
+  margin-right: 1em;
+  max-height: 100px;
+}
+
+.linehead {
+  border-radius: 2em;
+  padding: 1em;
+  position: relative;
+  z-index: 1;
+  color: #f7f7f7;
+  background: #3e3e40;
+}
+
+.basket{
+  margin: 2.5em;
+  overflow: hidden;
+}
+
+.table {
+  background: #ffffff;
+ border-radius: 2em;;
+  overflow: hidden;
+  clear: both;
+  margin-bottom: 1.8em;
+}
+
+
+.basketstr > * {
+  display: inline-block;
+}
+
+.basketstr{
+  max-height: 150px !important;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.text {
+  background: #3e3e40;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.50em;
+}
+
+.footertxt {
+  background: #3e3e40;
+  text-align: right; 
+}
+
+.footertxt p {
+  color: #fff;
+  font-weight: bold;
+}
+
+.blocks {
+  padding: 1em;
+}
+
+.blocks-tovar > * {
+  vertical-align: middle;
+}
+
+.blocks-button {
+  text-align: center;
+}
+
+.blocks-numeric p {
+  font: bold 1.8em helvetica;
+}
+
+.blocks-total p {
+  color: #12c8b1;
+}
+
+.gorbas.blocks {
+  width: 20%;
+}
+
+.gorbas > div {
+  vertical-align: middle;
+}
+
+.basketon {
+  position: absolute;
+  color: #fff;
+  top: 0.5em;
+  right: 0.5em;
+  font: bold 1.1em arial;
+  border: 0.16em solid #fff;
+  border-radius: 2.5em;
+  padding: 0 0.22em 0 0.25em ;
+}
+
+.blocks-button > * {
+  vertical-align: middle; 
+}
+
+.blocks-button > input {
+  max-width: 2.5em;
+}
+
+a.button:hover {
+  background: #5ee079;
+}
+
+
+a.button {
+  width: 1em;
+  line-height: 1em;
+  border-radius: 2em;
+      font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+  background: #3e3e40;
+  color: #fff;
+}
+
+/*#############*/
+.image {
+  width: 100%;
+    padding: 15px;
+    height: 120px;
+    display: inline-flex;
+}
+
+
+p.textbas{
+    text-align: center;
+    padding-right: 417px;
+    padding-left: 10px;
+    width: 140px;
+    display: inline-flex;
+}
+.blocks-tovar {
+  width: 63%;
+}
+p.price{
+  width: 15%;
+  text-align: left;
+}
+.head_pr
+{
+  width: 10%;
+  text-align: left;
+  padding-right: 80px;
+}
