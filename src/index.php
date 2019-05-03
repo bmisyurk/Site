@@ -140,7 +140,7 @@
             </ul>
             <footer>
                 <div style="min-width: 590px">
-                    <p class="copy">© 2019 Rush00 nmaliare & bmisyurk</p>
+                    <p class="copy">© 2019 bmisyurk</p>
                 </div>
             </footer>
         </div>
